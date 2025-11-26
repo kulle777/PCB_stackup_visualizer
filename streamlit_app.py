@@ -70,5 +70,9 @@ st.download_button(
     file_name="pcb_stackup.png",
     mime="image/png"
 )
+st.text("Creator: Kalle Paasio,\nhttps://github.com/kulle777/PCB_stackup_visualizer\n\n")
+st.text("I add some keywords, so google might find this one day: \n pcb, stackup, layer, height, "
+        "thickness, real, 1to1, 1:1, visual, visualize, represent, layout, copper, dielectric,"
+        " cross-section, multilayer, diagram ")
 
 st.text('')
